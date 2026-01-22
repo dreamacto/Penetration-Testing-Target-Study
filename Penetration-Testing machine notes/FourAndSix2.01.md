@@ -2,7 +2,7 @@
 FourAndSix2.01渗透测试
 
 nmap -sn 192.168.253.00/24  查看靶机地址
-![图片1](images/图片1.png)
+![图片1](images/images/图片1.png)
 
 nmap -A -p 1-64000 192.168.253.161
 ![图片2](images/图片2.png)
