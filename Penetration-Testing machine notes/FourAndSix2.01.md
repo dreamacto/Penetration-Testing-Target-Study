@@ -1,5 +1,7 @@
 FourAndSix2.01渗透测试
+
 网址下载链接：https://www.vulnhub.com/entry/fourandsix-201,266/
+
 nmap -sn 192.168.253.00/24  查看靶机地址
 
 ![图片1](images/FourAndSix2.01/图片1.png)
